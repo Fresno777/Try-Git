@@ -19,7 +19,7 @@ while True:
     Address = ("")
     Country = ("")
     id1 = input("First name:")
-    id2 = input ("Last name: ")
+    id2 = input("Last name: ")
     id3 = ("Age: ")
     id4 = input ("Email: ")
     id5 = input ("Phone: ")
